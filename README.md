@@ -32,7 +32,7 @@ One of the functions this program offers is it updates the data in both the <i>A
 |<i>User Update</i>:|100|
 
 ### Run the Search
-The first time you try to run this app, <i>Google</i> will inform you the app must be approved. Select this <a style="color:#0D6EE4" href="https://support.google.com/cloud/answer/7454865">Google clould help link</a> to learn how to verify the app. You can bypass the previous process by following these steps:
+The first time you try to run this app, <i>Google</i> will inform you the app must be approved. Select this <a style="color:#0D6EE4" href="https://support.google.com/cloud/answer/7454865">google clould help link</a> to learn how to verify the app. You can bypass the previous process by following these steps:
 
 1. Navigate to the menu bar, click <i>Reporting</i>, and select <i>Update Reports</i>
 <br>
