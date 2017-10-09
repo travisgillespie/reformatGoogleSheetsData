@@ -12,7 +12,7 @@ Open the file from your drive and navigate to the menu bar. Click <i>tools</i> a
 2. <i>docInfo.gs</i>
 3. <i>reusableFunctions.gs</i>
 
-If you can't locate these files, create them, and copy/paste the corresponding scripts located in the root folder of this <i>GitHub</i> repository.
+If you can't locate these files, select <i>File</i> > <i>New</i> > <i>Script File</i> > name the file, then copy/paste the corresponding scripts located in the root folder of this <i>GitHub</i> repository.
 
 ### Example Data
 The spreadsheet has example data in place to see how the code operates. Notice the number of rows within each tab:
